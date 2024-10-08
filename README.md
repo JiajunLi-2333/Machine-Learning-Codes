@@ -1,2 +1,2 @@
 # Machine-Learning-Codes
-Intro to Machine learning Courses at NYU 
+Intro to Machine learning 
